@@ -5,5 +5,4 @@ Parameter RESPONSECLASSNAME = "helloWorld.bo.orders.update.Response";
 
 Property Order As helloWorld.obj.order.Order;
 
-
 }

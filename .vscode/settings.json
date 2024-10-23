@@ -3,10 +3,10 @@
     "objectscript.conn": {
         "active": true,
         "host": "localhost",
-        "port": 52773,
-        "username": "",
-        "password": "",
-        "ns": "HELLO_WORLD",
+        "port": 52775,
+        "username": "gabriel",
+        "password": "17985",
+        "ns": "TREINAMENTOIRIS",
         "https": false
     },
     // Configurações do VsCode
